@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#nav-content{
+    background-color:lightpink;
+    
+}
+
+#ul-content{
+        list-style: none;
+        display: flex;
+        width: 30%;
+}
+#li-content{
+    color:deeppink;
+    padding: 30px;
+}
+
+#li-content a{
+    color:deeppink;
+    text-decoration: none;}
